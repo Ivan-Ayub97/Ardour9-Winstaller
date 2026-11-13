@@ -1,0 +1,8 @@
+Ardour 9.10.16 for Windows
+
+Native Windows compilation prepared by Ivan-Ayub97.
+
+The original Ardour license and attribution notices are preserved in the
+LICENSE-AND-ATTRIBUTION.txt file and in the relevant component folders.
+Ivan-Ayub97 is credited for this Windows build and its packaging, not as the
+author of the Ardour project or third-party components.
